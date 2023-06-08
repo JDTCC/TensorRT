@@ -58,7 +58,7 @@ setup(
     packages=["tensorflow_quantization"],
     python_requires=">=3.6",
     include_package_data=True,
-    install_requires=["tensorflow-gpu==2.8.0", "tf2onnx==1.10.1"],
+    install_requires=["tensorflow-gpu==2.12.0", "tf2onnx==1.10.1"],
     author="NVIDIA",
     author_email="nvidia@nvidia.com",
     license="Apache 2.0",
