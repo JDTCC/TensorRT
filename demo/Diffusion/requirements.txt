@@ -12,4 +12,4 @@ onnx-graphsurgeon==0.3.26
 polygraphy==0.44.2
 scipy
 torch<2.0.0
-transformers==4.26.1
+transformers==4.30.0
